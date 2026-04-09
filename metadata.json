@@ -1,0 +1,5 @@
+{
+  "name": "MoodTune: Playlist Decider",
+  "description": "An AI-powered music categorization app that sorts your favorite songs into mood-based playlists like Study, Gaming, Sad, and more.",
+  "requestFramePermissions": []
+}
