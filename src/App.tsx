@@ -102,7 +102,7 @@ export default function App() {
   const [selectedMood, setSelectedMood] = useState<Mood | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
-  const ITEMS_PER_PAGE = 15;
+  const ITEMS_PER_PAGE = 10;
 
   // Reset page when filters change
   useEffect(() => {
